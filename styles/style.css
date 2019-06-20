@@ -1,0 +1,35 @@
+p {
+    color: red;
+    border: 2px salmon;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("../images/lake.png");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: 5px solid red;
+}
+ul{
+    text-align: center;
+    color: white;
+}
+ol{
+    text-align: center;
+    color:white;
+}
+h1{
+    text-align: center;
+    color:yellowgreen;
+    font-weight: bold;
+    font-style: italic;
+    text-shadow: 3px 3px 1px black;
+}
+a:hover{
+    text-align: center;
+    color:yellow;
+}
